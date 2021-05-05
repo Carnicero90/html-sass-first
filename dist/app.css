@@ -1,0 +1,19 @@
+body {
+  background-color: #2d364b;
+}
+
+main {
+  padding: 5vh;
+}
+
+h1, h3, h4 {
+  color: #f8f6f6;
+}
+
+p, button {
+  color: #b9b6b6;
+}
+
+button {
+  background-color: #317531;
+}

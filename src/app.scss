@@ -1,0 +1,22 @@
+$title-color: rgb(248, 246, 246);
+$text-color: rgb(185, 182, 182);
+$main-bg-color: rgb(45, 54, 75);
+$secondary-bg-color: rgb(49, 117, 49);
+
+body {
+    background-color: $main-bg-color;
+}
+
+main {
+    padding: 5vh;
+}
+h1, h3, h4 {
+    color: $title-color;
+}
+
+p, button {
+    color: $text-color;
+}
+button {
+    background-color: $secondary-bg-color;
+}
